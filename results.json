@@ -1,0 +1,320 @@
+{
+  "snapshot_date": "2026-11-17",
+  "synthetic_geometry": true,
+  "cases": 17,
+  "passed": 17,
+  "failures": [],
+  "calculation_seconds": 0.080232,
+  "results": [
+    {
+      "id": "settlement_699",
+      "status": "conflict",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "source_point": "282, абзац 2",
+          "object": "object1",
+          "distance_m": 699.0,
+          "threshold_m": 700,
+          "status": "conflict"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "settlement_700",
+      "status": "no_conflict_in_example",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "source_point": "282, абзац 2",
+          "object": "object1",
+          "distance_m": 700.0,
+          "threshold_m": 700,
+          "status": "no_conflict_in_example"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "settlement_701",
+      "status": "no_conflict_in_example",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "source_point": "282, абзац 2",
+          "object": "object1",
+          "distance_m": 701.0,
+          "threshold_m": 700,
+          "status": "no_conflict_in_example"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "permanent_apiary_4999",
+      "status": "conflict",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "source_point": "282, абзац 3",
+          "object": "object1",
+          "distance_m": 4999.0,
+          "threshold_m": 5000,
+          "status": "conflict"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "permanent_apiary_5000",
+      "status": "no_conflict_in_example",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "source_point": "282, абзац 3",
+          "object": "object1",
+          "distance_m": 5000.0,
+          "threshold_m": 5000,
+          "status": "no_conflict_in_example"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "permanent_apiary_5001",
+      "status": "no_conflict_in_example",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "source_point": "282, абзац 3",
+          "object": "object1",
+          "distance_m": 5001.0,
+          "threshold_m": 5000,
+          "status": "no_conflict_in_example"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "person_or_domestic_animal_699",
+      "status": "conflict",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "source_point": "286",
+          "object": "object1",
+          "distance_m": 699.0,
+          "threshold_m": 700,
+          "status": "conflict"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "person_or_domestic_animal_700",
+      "status": "conflict",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "source_point": "286",
+          "object": "object1",
+          "distance_m": 700.0,
+          "threshold_m": 700,
+          "status": "conflict"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "person_or_domestic_animal_701",
+      "status": "no_conflict_in_example",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "source_point": "286",
+          "object": "object1",
+          "distance_m": 701.0,
+          "threshold_m": 700,
+          "status": "no_conflict_in_example"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "person_inside_field",
+      "status": "conflict",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "source_point": "286",
+          "object": "person",
+          "distance_m": 0.0,
+          "threshold_m": 700,
+          "status": "conflict"
+        }
+      ],
+      "complete_input": true
+    },
+    {
+      "id": "unknown_apiaries",
+      "status": "insufficient_data",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "status": "insufficient_data",
+          "reason": "Полнота объектов этой категории не подтверждена"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        }
+      ],
+      "complete_input": false
+    },
+    {
+      "id": "wrong_date",
+      "status": "insufficient_data",
+      "checks": [],
+      "reason": "Для этой даты редакция норм не проверена"
+    },
+    {
+      "id": "geographic_degrees",
+      "status": "insufficient_data",
+      "checks": [],
+      "reason": "Нужны координаты в общей плоской системе в метрах"
+    },
+    {
+      "id": "other_operation",
+      "status": "insufficient_data",
+      "checks": [],
+      "reason": "Этот вид работ в примере не поддержан"
+    },
+    {
+      "id": "invalid_field",
+      "status": "insufficient_data",
+      "checks": [],
+      "reason": "Некорректный контур участка"
+    },
+    {
+      "id": "missing_geometry",
+      "status": "insufficient_data",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        }
+      ],
+      "reason": "'geometry'"
+    },
+    {
+      "id": "conflict_with_unknown_apiaries",
+      "status": "conflict",
+      "checks": [
+        {
+          "rule": "SP282_SETTLEMENT_BAS",
+          "source_point": "282, абзац 2",
+          "object": "object1",
+          "distance_m": 699.0,
+          "threshold_m": 700,
+          "status": "conflict"
+        },
+        {
+          "rule": "SP282_APIARY",
+          "status": "insufficient_data",
+          "reason": "Полнота объектов этой категории не подтверждена"
+        },
+        {
+          "rule": "SP286_PEOPLE_BAS",
+          "status": "no_objects_in_complete_test_catalog"
+        }
+      ],
+      "complete_input": false
+    }
+  ],
+  "scope": "Только перечисленные расстояния; не разрешение обработки или полёта"
+}

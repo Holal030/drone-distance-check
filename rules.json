@@ -1,0 +1,11 @@
+{
+  "snapshot_date": "2026-11-17",
+  "source": "https://legalacts.ru/doc/postanovlenie-glavnogo-gosudarstvennogo-sanitarnogo-vracha-rf-ot-28012021-n/",
+  "document": "СанПиН 2.1.3684-21, п. 282 и 286; редакция с изменениями постановления от 12.02.2026 № 2",
+  "extraction": "Ручная формализация трёх фрагментов нормы. Автоматическое извлечение не выполнялось.",
+  "rules": [
+    {"id": "SP282_SETTLEMENT_BAS", "point": "282, абзац 2", "object_kind": "settlement", "distance_m": 700, "comparison": "minimum_inclusive"},
+    {"id": "SP282_APIARY", "point": "282, абзац 3", "object_kind": "permanent_apiary", "distance_m": 5000, "comparison": "minimum_inclusive"},
+    {"id": "SP286_PEOPLE_BAS", "point": "286", "object_kind": "person_or_domestic_animal", "distance_m": 700, "comparison": "within_inclusive"}
+  ]
+}

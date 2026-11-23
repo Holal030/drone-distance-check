@@ -1,0 +1,970 @@
+[
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "settlement",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                799,
+                20
+              ],
+              [
+                819,
+                20
+              ],
+              [
+                819,
+                80
+              ],
+              [
+                799,
+                80
+              ],
+              [
+                799,
+                20
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "id": "settlement_699",
+    "expected_distance_m": 699,
+    "expected_status": "conflict"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "settlement",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                800,
+                20
+              ],
+              [
+                820,
+                20
+              ],
+              [
+                820,
+                80
+              ],
+              [
+                800,
+                80
+              ],
+              [
+                800,
+                20
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "id": "settlement_700",
+    "expected_distance_m": 700,
+    "expected_status": "no_conflict_in_example"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "settlement",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                801,
+                20
+              ],
+              [
+                821,
+                20
+              ],
+              [
+                821,
+                80
+              ],
+              [
+                801,
+                80
+              ],
+              [
+                801,
+                20
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "id": "settlement_701",
+    "expected_distance_m": 701,
+    "expected_status": "no_conflict_in_example"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "permanent_apiary",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5099,
+                20
+              ],
+              [
+                5119,
+                20
+              ],
+              [
+                5119,
+                80
+              ],
+              [
+                5099,
+                80
+              ],
+              [
+                5099,
+                20
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "id": "permanent_apiary_4999",
+    "expected_distance_m": 4999,
+    "expected_status": "conflict"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "permanent_apiary",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5100,
+                20
+              ],
+              [
+                5120,
+                20
+              ],
+              [
+                5120,
+                80
+              ],
+              [
+                5100,
+                80
+              ],
+              [
+                5100,
+                20
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "id": "permanent_apiary_5000",
+    "expected_distance_m": 5000,
+    "expected_status": "no_conflict_in_example"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "permanent_apiary",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5101,
+                20
+              ],
+              [
+                5121,
+                20
+              ],
+              [
+                5121,
+                80
+              ],
+              [
+                5101,
+                80
+              ],
+              [
+                5101,
+                20
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "id": "permanent_apiary_5001",
+    "expected_distance_m": 5001,
+    "expected_status": "no_conflict_in_example"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "person_or_domestic_animal",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            799,
+            50
+          ]
+        }
+      }
+    ],
+    "id": "person_or_domestic_animal_699",
+    "expected_distance_m": 699,
+    "expected_status": "conflict"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "person_or_domestic_animal",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            800,
+            50
+          ]
+        }
+      }
+    ],
+    "id": "person_or_domestic_animal_700",
+    "expected_distance_m": 700,
+    "expected_status": "conflict"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "person_or_domestic_animal",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            801,
+            50
+          ]
+        }
+      }
+    ],
+    "id": "person_or_domestic_animal_701",
+    "expected_distance_m": 701,
+    "expected_status": "no_conflict_in_example"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "person",
+        "kind": "person_or_domestic_animal",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            50,
+            50
+          ]
+        }
+      }
+    ],
+    "id": "person_inside_field",
+    "expected_distance_m": 0,
+    "expected_status": "conflict"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": false,
+      "person_or_domestic_animal": true
+    },
+    "objects": [],
+    "id": "unknown_apiaries",
+    "expected_status": "insufficient_data"
+  },
+  {
+    "as_of": "2026-11-18",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [],
+    "id": "wrong_date",
+    "expected_status": "insufficient_data"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "EPSG:4326",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [],
+    "id": "geographic_degrees",
+    "expected_status": "insufficient_data"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "ordinary_flight",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [],
+    "id": "other_operation",
+    "expected_status": "insufficient_data"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [],
+    "id": "invalid_field",
+    "expected_status": "insufficient_data"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": true,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "missing",
+        "kind": "permanent_apiary"
+      }
+    ],
+    "id": "missing_geometry",
+    "expected_status": "insufficient_data"
+  },
+  {
+    "as_of": "2026-11-17",
+    "crs": "LOCAL_METRES",
+    "operation": "bas_pesticide_application",
+    "field": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            0,
+            100
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "catalog_complete": {
+      "settlement": true,
+      "permanent_apiary": false,
+      "person_or_domestic_animal": true
+    },
+    "objects": [
+      {
+        "id": "object1",
+        "kind": "settlement",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                799,
+                20
+              ],
+              [
+                819,
+                20
+              ],
+              [
+                819,
+                80
+              ],
+              [
+                799,
+                80
+              ],
+              [
+                799,
+                20
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "id": "conflict_with_unknown_apiaries",
+    "expected_distance_m": 699,
+    "expected_status": "conflict"
+  }
+]
